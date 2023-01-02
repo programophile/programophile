@@ -8,8 +8,8 @@
 
 <p align="center">
 <a href= "https://web.facebook.com/HeyiamSad"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/46-facebook-512.png" width="40" height="25"/></a>
-<a href= "https://www.instagram.com/__i__am__sad___/"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="30" height="20"/></a>
-<a href= "https://twitter.com/_i__am__sad"><img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" width="40" height="25"/></a>
+<a href= "https://www.instagram.com/__i__am__sad___/"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="35" height="20"/></a>
+<a href= "https://twitter.com/_i__am__sad"><img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" width="35" height="20"/></a>
 </p>
 
 - 🔭 I’m currently working on ...data structure and algoridm
