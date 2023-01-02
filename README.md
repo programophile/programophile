@@ -31,6 +31,7 @@ Check out my repos ⬇️
     <div class="col-md-8">
       <h1>Your Name</h1>
       <p>A short bio about yourself and your interests.</p>
+      <img src="cool-gif.gif" alt="A cool GIF" class="cool-gif">
       <a href="https://github.com/your-username" target="_blank" class="btn btn-primary">View GitHub Profile</a>
     </div>
   </div>
