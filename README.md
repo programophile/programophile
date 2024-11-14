@@ -11,8 +11,8 @@
 <a href= "https://twitter.com/_i__am__sad"><img src="https://cdn-icons-png.flaticon.com/512/60/60580.png" width="32" height="23"/></a>
 </p>
 
-- 🔭 I’m currently working on ...data structure and algoridm
-- 🌱 I’m currently learning ...python
+- 🔭 I’m currently working on ...NLP, Ai and ML
+- 🌱 I’m currently learning ...MERN , NN
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...everything
 - 💬 Ask me about ...
