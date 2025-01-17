@@ -41,6 +41,8 @@ Check out my repos ⬇️
 
 ![](https://raw.githubusercontent.com/programophile/cf-statss/main/output/light_card.svg#gh-dark-mode-only)
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=programophile)
+
 
 
 </p>
