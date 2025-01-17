@@ -39,9 +39,6 @@ Check out my repos ⬇️
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programophile" alt="programophile" /></a> </p>
 
-![](https://raw.githubusercontent.com/programophile/cf-statss/main/output/light_card.svg#gh-dark-mode-only)
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=programophile&theme=radical)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://raw.githubusercontent.com/programophile/cf-statss/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats Light" style="height: 200px; width: 300px;">
