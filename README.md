@@ -30,7 +30,7 @@ Check out my repos ⬇️
   </samp>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programophile&repo=BRACU_CGPA_CALCULATOR&theme=radical)](https://github.com/programophile/CGPA-Calculator-For-BRAC-University-Students-BRACU)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programophile&repo=CGPA-Calculator-For-BRAC-University-Students-BRACU&theme=radical)](https://github.com/programophile/CGPA-Calculator-For-BRAC-University-Students-BRACU)
 
 
 
