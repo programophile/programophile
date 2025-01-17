@@ -37,7 +37,7 @@ Check out my repos ⬇️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programophile&label=Profile%20views&color=0e75b6&style=flat" alt="programophile" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programophile" alt="programophile" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programophile&theme=radical" alt="programophile" /></a> </p>
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
