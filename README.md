@@ -43,12 +43,13 @@ Check out my repos ⬇️
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=programophile&theme=radical)
 
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://raw.githubusercontent.com/programophile/cf-statss/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats Light">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=programophile&theme=radical" alt="Codeforces Stats">
+</div>
 
 </p>
 
-<!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
- -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programophile&show_icons=true&theme=radical&locale=en&layout=compact" alt="programophile" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programophile&show_icons=true&theme=radical&locale=en" alt="programophile" /></p>
