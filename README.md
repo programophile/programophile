@@ -39,6 +39,9 @@ Check out my repos ⬇️
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programophile" alt="programophile" /></a> </p>
 
+![](https://raw.githubusercontent.com/programophile/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/programophile/cf-stats/main/output/light_card.svg)
+
 
 </p>
 
