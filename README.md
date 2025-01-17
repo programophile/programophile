@@ -42,7 +42,7 @@ Check out my repos ⬇️
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://raw.githubusercontent.com/programophile/cf-statss/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats Light" style="height: 200px; width: 300px;">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=programophile&theme=radical" alt="Codeforces Stats" style="height: 200px; width: 300px;">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=programophile&theme=onedark" alt="Codeforces Stats" style="height: 200px; width: 300px;">
 </div>
 </p>
 
