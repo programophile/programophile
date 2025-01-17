@@ -20,6 +20,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: sad.yeamin.sayem@g.bracu.ac.bd
 - 😄 Pronouns: ...He/Him
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
