@@ -43,11 +43,10 @@ Check out my repos ⬇️
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=programophile&theme=radical)
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/programophile/cf-statss/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats Light">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=programophile&theme=radical" alt="Codeforces Stats">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://raw.githubusercontent.com/programophile/cf-statss/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats Light" style="height: 200px; width: 200px;">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=programophile&theme=radical" alt="Codeforces Stats" style="height: 200px; width: 200px;">
 </div>
-
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programophile&show_icons=true&theme=radical&locale=en&layout=compact" alt="programophile" /></p>
