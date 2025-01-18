@@ -22,10 +22,10 @@
 
 
 
-
+![](https://leetcard.jacoblin.cool/programophile?ext=heatmap)
 
 <p align="center"><samp>
-![](https://leetcard.jacoblin.cool/programophile?ext=heatmap)
+
 Check out my repos ⬇️  
   </samp>
 </p>
