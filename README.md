@@ -34,7 +34,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://raw.githubusercontent.com/programophile/cf-statss/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Stats Light" style="height: 250px; width: 350px;">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=programophile&theme=dark" alt="Codeforces Stats" style="height: 215px; width: 350px;">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=programophile&theme=dark" alt="Codeforces Stats" style="height: 250px; width: 375px;">
 </div>
 </p>
 
