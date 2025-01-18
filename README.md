@@ -22,22 +22,14 @@
 
 
 
-![](https://leetcard.jacoblin.cool/programophile?ext=heatmap)
-
-<p align="center"><samp>
-
-Check out my repos ⬇️  
-  </samp>
-</p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programophile&repo=CGPA-Calculator-For-BRAC-University-Students-BRACU&theme=radical)](https://github.com/programophile/CGPA-Calculator-For-BRAC-University-Students-BRACU)
-
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programophile&label=Profile%20views&color=0e75b6&style=flat" alt="programophile" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programophile&theme=radical" alt="programophile" /></a> </p>
+
+
+![](https://leetcard.jacoblin.cool/programophile?ext=heatmap)
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -51,3 +43,11 @@ Check out my repos ⬇️
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programophile&show_icons=true&theme=radical&locale=en" alt="programophile" /></p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=programophile&theme=github-compact)
+
+<p align="center"><samp>
+
+Check out my repos ⬇️  
+  </samp>
+</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programophile&repo=CGPA-Calculator-For-BRAC-University-Students-BRACU&theme=radical)](https://github.com/programophile/CGPA-Calculator-For-BRAC-University-Students-BRACU)
