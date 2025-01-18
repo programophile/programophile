@@ -25,7 +25,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programophile&label=Profile%20views&color=0e75b6&style=flat" alt="programophile" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=programophile&label=Profile%20views&color=black&style=for-the-badge" alt="programophile" /> </p>
 
 
 
