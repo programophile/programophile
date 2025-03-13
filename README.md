@@ -1,5 +1,5 @@
 
-<marquee> <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! My name is <b> Sad Yeamin Sayem </b> I'm a learner, who is pursuing cse in BRAC University. For now , i only know about python but have plans to work on different languages in future  </samp></h4> </marquee>
+<marquee> <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! My name is <b> Sad Yeamin Sayem </b> I'm a learner, who is pursuing Computer Science Major in BRAC University. I am currently working on some small projects and Machine Learning field (Research)  </samp></h4> </marquee>
 
 <p align="center">
   <img width="250" src="https://gifdb.com/images/high/orangutan-evaded-python-programming-chlmsu484pugx2tm.webp">
@@ -13,10 +13,10 @@
 </p>
 
 - 🔭 I’m currently working on ...NLP, Ai and ML
-- 🌱 I’m currently learning ...MERN , NN
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...everything
-- 💬 Ask me about ...
+- 🌱 I’m currently learning ... Neural Networks , Machine Vision and Natural Language Processing
+- 👯 I’m looking to collaborate on ... Research based on ML or Ai 
+- 🤔 I’m looking for help with ... building ai agents 
+- 💬 Ask me about ... python , data science , Ai 
 - 📫 How to reach me: sad.yeamin.sayem@g.bracu.ac.bd
 - 😄 Pronouns: ...He/Him
 
